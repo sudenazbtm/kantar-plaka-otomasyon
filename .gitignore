@@ -1,0 +1,33 @@
+## Visual Studio & IDE
+.vs/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+## Build outputs
+[Bb]in/[Dd]ebug/
+[Bb]in/[Rr]elease/
+[Bb]in/x64/
+[Bb]in/x86/
+**/[Bb]in/[Dd]ebug/
+**/[Bb]in/[Rr]elease/
+**/[Bb]in/x64/
+**/[Bb]in/x86/
+**/[Oo]bj/
+
+## NuGet Packages
+packages/*
+!packages/repositories.config
+
+## Local database & logs
+kantar_db.xml
+*.log
+*.tmp
+*.bak
+*.pcm
+*.vshost.*
+
+## OS files
+Thumbs.db
+[Dd]esktop.ini

@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Kantar-Plaka Arge Projesi/Kantar-Plaka Arge Projesi.csproj" Id="aeb0bd83-35cc-4aab-b9e1-572619306149">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
